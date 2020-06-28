@@ -1,0 +1,50 @@
+
+
+h2{
+    font-family: 'Suez One', serif;
+    font-size: 100px;
+    
+    
+    color: #0d0d0e;
+    font-size: 80px;
+    font-weight: 900;
+  
+}
+nav {
+
+    display: inline-block;
+    
+    }
+
+ul {
+    
+    float:right;
+    transform: translateX(950%);
+    
+    }
+    .footer{
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+      padding-left: 700px;
+      background-color:black;
+      color: #fff;
+      margin-top: 54px;
+    
+    }
+   
+    p{
+margin-left: 20px;
+margin-top: 40px;
+font-size: 20px;
+
+    }
+    
+    h3{
+        text-align: center;
+    }
+
+    h4{
+        margin-left: 10px;
+    }
+    
+    
